@@ -4,7 +4,7 @@ DEBUG = False
 
 ADMINS = (("Furkalo S", "furkalokbu@gmail.com"),)
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['104.236.5.177', 'localhost']
 
 DATABASES = {
     "default": {
