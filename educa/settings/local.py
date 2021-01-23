@@ -2,6 +2,8 @@ from .base import *
 
 DEBUG = True
 
+SECRET_KEY = "ybx5d+youn7^%kho86%+%fenz8!&=jpwe%z7_@ygj7l9nskk*l"
+
 ALLOWED_HOSTS = ["educaproject.com", "www.educaproject.com"]
 
 DATABASES = {
